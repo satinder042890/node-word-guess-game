@@ -11,6 +11,7 @@
 
 ![Alt text](https://github.com/satinder042890/node-word-guess-game/blob/master/images/userscreen.png)
 
+## Asking User to type a letter
 8. After selecting the level, the game provides a word to guess.
 9.The user has to enter a letter to try to guess the word, which starts with blanks. 
 10. If the letter is in the word, the word/underscore representation is shown with the letter revealed. 
@@ -18,18 +19,22 @@
 
 ![Alt text](https://github.com/satinder042890/node-word-guess-game/blob/master/images/typeletter.png)
 
-
-
+## Win Message
 12. If the user is able to guess the word without loosing all the guesses.
 13. Win message shows to the screen, and ask the user to play again or quit the game.
 
 ![Alt text](https://github.com/satinder042890/node-word-guess-game/blob/master/images/win.png)
 
-
+## Loose Message
 14. if the user looses all his guesses, without guessing the word.
 15. Loose message shows to the screen, and ask the user to play again or quit the game.
 
+![Alt text](https://github.com/satinder042890/node-word-guess-game/blob/master/images/loose.png)
+
+## Quit Option
+
+![Alt text](https://github.com/satinder042890/node-word-guess-game/blob/master/images/quit.png)
 
 
-
-[Click here to view the video of game)(https://drive.google.com/file/d/1nEU18erHRLqRykMGDWxH1cQ3DcGG-w-i/view)
+## Video Link
+https://drive.google.com/file/d/1nEU18erHRLqRykMGDWxH1cQ3DcGG-w-i/view
