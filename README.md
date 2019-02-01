@@ -1,4 +1,6 @@
 # node-word-guess-game
+
+## Starting Screen
 1. This is a hangman-style word game in Node-js, using two different constructors. 
 2. The index.js runs the actual game with a dependency on the constructor, word.js.
 3. word.js also has a dependency on the letter.js constructor. 
@@ -7,7 +9,7 @@
 6. In the medium level, the user has 8 guesses to guess the word.
 7. In the hard level, the user has only 4 guesses to guess the word.
 
-
+![Alt text](https://github.com/satinder042890/liri-node-app/blob/master/images/concerts.png)
 
 
 
