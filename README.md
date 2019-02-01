@@ -32,6 +32,7 @@
 ![Alt text](https://github.com/satinder042890/node-word-guess-game/blob/master/images/loose.png)
 
 ## Quit Option
+16. The user simpley type quit anytime, if he wants to quit the game.
 
 ![Alt text](https://github.com/satinder042890/node-word-guess-game/blob/master/images/quit.png)
 
